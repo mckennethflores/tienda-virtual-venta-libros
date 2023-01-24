@@ -1,0 +1,230 @@
+
+/* Start:/bitrix/templates/editorial/components/editorial/news.list/publicacion2/style.css*/
+.title_catalogo_carr{
+	font-family:Helvetica, Arial,  sans-serif;
+	font-size:32px !important;
+	color:#d5400f;
+	}
+.carousel-container{
+	height:435px !important;
+	width:720px !important; }
+#carousel {
+  background-color: transparent   !important;
+  height:435px !important;
+  width:720px !important;
+  position:relative;
+  font-size:12px;
+  font-family: Arial;
+  /*border: #999 1px solid !important;
+  border-bottom-right-radius: 10px !important;
+  border-bottom-left-radius: 10px;*/
+}
+.carousel-feature { }
+.carousel-feature .carousel-caption {
+  position: relative !important;
+  width:100% !important; 
+  background-color: transparent !important;
+  text-align:center !important;
+font-weight:bold; margin-top:10px;
+	
+ }	
+.titulo_carru a{
+	font-size:15px !important; color:#000;
+	text-decoration:none;
+	}
+.titulo_libr, .titulo_libr a{
+		 text-decoration:none; }
+
+
+#carousel-left {
+  position:absolute;
+  bottom:0px ;
+  left: 10px !important;
+  cursor:pointer;
+  width:22px !important;
+  height:31px !important;
+  background:url(bt_anterior_banner_publicaciones.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/edit_copy/components/bitrix/news.list/publicacion/images/bt_anterior_banner_publicaciones.png*/ no-repeat !important;
+  /*background-position: right !important;*/
+}
+#carousel-left:hover{
+	background-position: right !important;
+	/*clip:rect(0 22 0 0);*/
+	}
+#carousel-right {
+  position:absolute;
+  bottom:0px;
+  right: 10px !important;
+  width:22px !important;
+  height:31px !important;
+  background:url(bt_siguiente_banner_publicaciones.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/edit_copy/components/bitrix/news.list/publicacion/images/bt_siguiente_banner_publicaciones.png*/ no-repeat !important;
+  cursor:pointer;
+}
+#carousel-right:hover{
+	background-position: right !important;
+	/*clip:rect(0 22 0 0);*/
+	}	
+
+
+
+/* End */
+
+/* Start:/bitrix/templates/editorial/components/bitrix/catalog.section/noticias_home/style.css*/
+
+.catalog-price {
+	 color:red;
+}
+div.catalog-section table td {
+	/*padding-right:10px;
+	padding-top:10px;*/
+}
+
+.titulo_noticias{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9.5pt;
+	font-weight:bold;
+	color:#c65125;}
+.fecha{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#c65125;
+	font-size:9pt;
+	margin: -4px 0px; }	
+p.texto_pre{
+	font-family:Arial, Helvetica, sans-serif;
+	font-stretch:normal;
+	font-size:12px;
+	line-height:18px;
+	color:#6d6c6b;
+	margin: 0px 0px;
+	text-align:left !important;    
+	}
+h2
+{	
+	font-size:18px;
+	padding:2px 0px;
+	padding-left:40px;
+	font-weight:bold;  
+	background-image:url(icono.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/edit_copy/images/icono.png*/; 
+	background-repeat:no-repeat; 
+	background-position: left center;	
+	}
+h2 span{ border-bottom:#cb5520 solid 1px; display:block;}			
+
+/* End */
+
+/* Start:/bitrix/templates/editorial/components/bitrix/catalog.section/autores_2015/style.css*/
+#autor_mes{ }
+#autor_mes h2 { color:#FFF;
+font-weight:none;}
+.catalog-price {
+	 color:red;
+}
+div.catalog-section table td {
+	padding-right:10px;
+	padding-top:10px;
+}
+.link_auto{
+	background-image:url(icono_flecha-1.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/edit_copy/components/bitrix/catalog.section/autores/images/icono_flecha.png*/;
+	background-repeat:no-repeat;
+	padding-left:20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:9pt;
+	color:#fffefe;
+	text-decoration:none;
+	}
+.link_auto:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:9pt;
+	color:#fffefe;
+	text-decoration:underline;
+	}
+.h21{
+	color:#fcfcfc;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;}	
+	
+.text_pre{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9pt;
+	color:#fefdfd;
+	padding-top:0px;
+	}
+h2{
+	margin-top:10px !important;	}
+#descuento{
+	height:32px; 
+	width:272px; 
+	margin-left:-20px; 
+	background-color:#E1590F;
+	text-align:center;
+	padding-top:10px;	}
+	
+#descuento .diez_desc{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#fcfcfc;
+		}	
+/* End */
+
+/* Start:/bitrix/templates/editorial/components/bitrix/catalog.section/catalogo_home_inferior/style.css*/
+.catalog-price {
+	 color:red;
+}
+div.catalog-section table td {
+	padding-right:10px;
+	padding-top:10px;
+}
+
+/* End */
+
+/* Start:/bitrix/templates/editorial/components/bitrix/catalog.section/mas_vendidos_home/style.css*/
+#contenedor1{
+  position:relative;
+  width:229px;
+  height:296px;
+}
+.galeria1{
+	width:149px !important;
+	}
+.preview1{
+	width:150px; }
+.link_previa1{
+	float:left;
+	margin-top: -150px;
+	margin-left:10px;
+	width:13px;
+  	height:14px;
+	background-image:url(bt_ofertas_izq-1.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/editorial/components/bitrix/catalog.section/oferta_Penlace/images/bt_ofertas_izq.png*/;
+	}
+.link_previa1:hover{
+	background-position: right !important;
+	}	
+.link_siguiente1	
+{
+	float: right;
+	margin-top: -150px;
+	margin-right:10px;
+	width:14px;
+  	height:14px;
+	background-image:url(bt_ofertas_der-1.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/editorial/components/bitrix/catalog.section/oferta_Penlace/images/bt_ofertas_der.png*/;
+	}
+.link_siguiente1:hover{
+	background-position: right !important;
+	}	
+.titulo_vendidos{ padding-top: 20px; padding-left:20px;	}
+.h22{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;;
+	color:#D7410F;
+	}
+.h22 b{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	color:#D44010;
+	}	
+.link_mas_vendidos{
+	color:#2a2929;
+	text-decoration:none;
+	font-weight:bold; text-align:center; padding:5px; font-size:90%}			
+/* End */

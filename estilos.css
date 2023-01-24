@@ -1,0 +1,99 @@
+/* Estilos Base */
+*{
+    color: #262626;
+    font: 12px sans-serif;
+}
+body {
+    background: #F4F4F4;
+}
+/* Estilos del formulario */
+form.contacto {
+    margin: 25px auto 0;
+    width: 440px;
+}
+form.contacto fieldset {
+    background: white;
+    border: 1px solid #E1E1E1;
+    box-shadow: 0 0 10px #DADADA;
+    -webkit-box-shadow: 0 0 10px #DADADA;
+    -moz-box-shadow: 0 0 10px #DADADA;
+    padding: 25px;
+}
+form.contacto fieldset > div {
+    clear: both;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+form.contacto fieldset div label {
+    display: block;
+    float: left;
+    margin-right: 15px;
+    margin-top: 5px;
+    text-align: right;
+    text-transform: uppercase;
+    width: 84px;
+}
+form.contacto input[type="text"], form.contacto textarea {
+    background: #F5F5F5;
+    border: 1px solid #E8E8E8;
+    color: #626262;
+    display: block;
+    float: left;
+    padding: 8px;
+    resize: none;
+    width: 265px;
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+}
+form.contacto input[type="text"]:focus, form.contacto textarea:focus {
+    background: #F9F9F9;
+    border: 1px solid #D3D3D3;
+    outline: none;
+}
+form.contacto .ultimo{
+    margin-bottom: 0;
+    position: relative
+}
+form.contacto button {
+    background: #444444;
+    border: 0 none;
+    color: #FFFFFF;
+    float: right;
+    font-weight: bold;
+    height: 32px;
+    padding: 0 10px;
+    position: relative;
+    text-transform: uppercase;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+}
+form.contacto button:hover{
+    background: #6A6A6A;
+}
+ 
+/* AJAX Gif y mensajes de exito o fracaso */
+.hide{
+    display: none;
+}
+.ajaxgif{
+    position: absolute;
+    right: 150px;
+    top: 5px;
+}
+.msg{
+    color: white;
+    font-weight: bold;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 10px;
+    position: absolute;
+    right: -155px;
+    text-transform: uppercase;
+    min-width: 121px;
+}
+.msg_ok{
+    background: #589D05;
+}
+.msg_error{
+    background: red;
+}

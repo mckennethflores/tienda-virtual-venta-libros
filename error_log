@@ -1,0 +1,1069 @@
+[04-Apr-2020 00:20:41 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Apr-2020 00:20:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Apr-2020 00:20:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-Apr-2020 00:20:52 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Apr-2020 00:20:52 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Apr-2020 00:20:52 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-Apr-2020 00:21:37 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Apr-2020 00:21:37 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Apr-2020 00:21:37 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Jun-2020 12:07:11 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Jun-2020 12:07:11 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Jun-2020 12:07:11 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Jun-2020 21:49:39 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Jun-2020 21:49:39 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Jun-2020 21:49:39 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Jun-2020 11:43:27 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Jun-2020 11:43:27 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Jun-2020 11:43:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[23-Jun-2020 11:57:21 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Jun-2020 11:57:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Jun-2020 11:57:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[25-Jun-2020 07:25:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[25-Jun-2020 07:25:29 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[25-Jun-2020 07:25:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[25-Jun-2020 12:42:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[25-Jun-2020 12:42:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[25-Jun-2020 12:42:05 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[28-Jun-2020 16:51:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[28-Jun-2020 16:51:50 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[28-Jun-2020 16:51:50 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[02-Jul-2020 17:22:23 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[02-Jul-2020 17:22:23 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[02-Jul-2020 17:22:23 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[05-Jul-2020 19:47:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[05-Jul-2020 19:47:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[05-Jul-2020 19:47:42 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[06-Jul-2020 15:21:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[06-Jul-2020 15:21:35 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[06-Jul-2020 15:21:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Jul-2020 03:57:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Jul-2020 03:57:55 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Jul-2020 03:57:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[11-Jul-2020 08:49:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[11-Jul-2020 08:49:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[11-Jul-2020 08:49:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Jul-2020 10:01:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Jul-2020 10:01:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Jul-2020 10:01:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Jul-2020 04:39:08 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Jul-2020 04:39:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Jul-2020 04:39:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Jul-2020 08:58:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Jul-2020 08:58:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Jul-2020 08:58:51 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[22-Jul-2020 13:15:09 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[22-Jul-2020 13:15:09 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[22-Jul-2020 13:15:09 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[30-Jul-2020 01:56:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[30-Jul-2020 01:56:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[30-Jul-2020 01:56:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Aug-2020 21:02:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Aug-2020 21:02:12 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Aug-2020 21:02:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Aug-2020 09:22:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Aug-2020 09:22:55 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Aug-2020 09:22:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Aug-2020 13:57:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Aug-2020 13:57:44 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Aug-2020 13:57:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Aug-2020 11:11:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Aug-2020 11:11:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Aug-2020 11:11:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[25-Aug-2020 21:31:46 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[25-Aug-2020 21:31:46 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[25-Aug-2020 21:31:46 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Aug-2020 23:14:23 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Aug-2020 23:14:23 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Aug-2020 23:14:23 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[28-Aug-2020 00:53:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[28-Aug-2020 00:53:55 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[28-Aug-2020 00:53:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[28-Aug-2020 00:53:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[28-Aug-2020 00:53:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[28-Aug-2020 00:53:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Sep-2020 15:34:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Sep-2020 15:34:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Sep-2020 15:34:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[06-Sep-2020 05:12:11 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[06-Sep-2020 05:12:11 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[06-Sep-2020 05:12:11 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Sep-2020 19:36:16 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Sep-2020 19:36:16 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Sep-2020 19:36:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Sep-2020 15:55:48 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Sep-2020 15:55:48 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Sep-2020 15:55:48 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Sep-2020 02:07:15 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Sep-2020 02:07:15 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Sep-2020 02:07:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Sep-2020 02:07:17 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Sep-2020 02:07:17 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Sep-2020 02:07:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Sep-2020 10:41:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Sep-2020 10:41:59 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Sep-2020 10:41:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[11-Sep-2020 04:22:48 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[11-Sep-2020 04:22:48 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[11-Sep-2020 04:22:48 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Sep-2020 00:56:01 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Sep-2020 00:56:01 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Sep-2020 00:56:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Sep-2020 00:56:02 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Sep-2020 00:56:02 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Sep-2020 00:56:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[16-Sep-2020 00:01:49 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[16-Sep-2020 00:01:49 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[16-Sep-2020 00:01:49 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Sep-2020 11:18:09 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Sep-2020 11:18:09 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Sep-2020 11:18:09 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[21-Sep-2020 08:32:38 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[21-Sep-2020 08:32:38 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[21-Sep-2020 08:32:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[25-Sep-2020 05:20:38 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[25-Sep-2020 05:20:38 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[25-Sep-2020 05:20:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[25-Sep-2020 07:05:24 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[25-Sep-2020 07:05:24 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[25-Sep-2020 07:05:24 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[27-Sep-2020 05:38:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[27-Sep-2020 05:38:55 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[27-Sep-2020 05:38:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[29-Sep-2020 01:18:03 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[29-Sep-2020 01:18:03 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[29-Sep-2020 01:18:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Oct-2020 16:23:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Oct-2020 16:23:36 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Oct-2020 16:23:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Oct-2020 16:23:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Oct-2020 16:23:36 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Oct-2020 16:23:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[02-Oct-2020 08:17:47 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[02-Oct-2020 08:17:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[02-Oct-2020 08:17:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Oct-2020 19:47:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Oct-2020 19:47:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Oct-2020 19:47:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[05-Oct-2020 19:10:45 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[05-Oct-2020 19:10:45 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[05-Oct-2020 19:10:45 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Oct-2020 20:45:18 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Oct-2020 20:45:18 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Oct-2020 20:45:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Oct-2020 20:45:19 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Oct-2020 20:45:19 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Oct-2020 20:45:19 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[12-Oct-2020 07:01:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[12-Oct-2020 07:01:59 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[12-Oct-2020 07:01:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[12-Oct-2020 13:15:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[12-Oct-2020 13:15:10 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[12-Oct-2020 13:15:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Oct-2020 07:50:15 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Oct-2020 07:50:15 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Oct-2020 07:50:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Oct-2020 07:50:17 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Oct-2020 07:50:17 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Oct-2020 07:50:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Oct-2020 11:51:01 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Oct-2020 11:51:01 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Oct-2020 11:51:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[22-Oct-2020 12:16:52 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[22-Oct-2020 12:16:52 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[22-Oct-2020 12:16:52 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[23-Oct-2020 11:58:49 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Oct-2020 11:58:49 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Oct-2020 11:58:49 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[23-Oct-2020 18:35:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Oct-2020 18:35:44 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Oct-2020 18:35:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[24-Oct-2020 01:10:26 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[24-Oct-2020 01:10:26 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[24-Oct-2020 01:10:26 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[25-Oct-2020 21:04:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[25-Oct-2020 21:04:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[25-Oct-2020 21:04:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[27-Oct-2020 07:02:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[27-Oct-2020 07:02:43 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[27-Oct-2020 07:02:43 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Nov-2020 12:41:18 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Nov-2020 12:41:18 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Nov-2020 12:41:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[06-Nov-2020 12:22:46 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[06-Nov-2020 12:22:46 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[06-Nov-2020 12:22:46 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[06-Nov-2020 12:22:47 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[06-Nov-2020 12:22:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[06-Nov-2020 12:22:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Nov-2020 18:08:30 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Nov-2020 18:08:30 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Nov-2020 18:08:30 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Nov-2020 18:08:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Nov-2020 18:08:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Nov-2020 18:08:31 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[13-Nov-2020 03:31:25 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[13-Nov-2020 03:31:25 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[13-Nov-2020 03:31:25 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Nov-2020 11:00:03 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Nov-2020 11:00:03 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Nov-2020 11:00:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[23-Nov-2020 14:06:22 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Nov-2020 14:06:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Nov-2020 14:06:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[25-Nov-2020 19:25:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[25-Nov-2020 19:25:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[25-Nov-2020 19:25:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Nov-2020 00:07:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Nov-2020 00:07:36 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Nov-2020 00:07:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[27-Nov-2020 13:50:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[27-Nov-2020 13:50:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[27-Nov-2020 13:50:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Dec-2020 04:18:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Dec-2020 04:18:10 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Dec-2020 04:18:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[02-Dec-2020 19:21:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[02-Dec-2020 19:21:44 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[02-Dec-2020 19:21:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-Dec-2020 17:10:32 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Dec-2020 17:10:32 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Dec-2020 17:10:32 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Dec-2020 02:17:08 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Dec-2020 02:17:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Dec-2020 02:17:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Dec-2020 02:17:09 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Dec-2020 02:17:09 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Dec-2020 02:17:09 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Dec-2020 01:25:00 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Dec-2020 01:25:00 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Dec-2020 01:25:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[15-Dec-2020 09:30:22 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[15-Dec-2020 09:30:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[15-Dec-2020 09:30:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[16-Dec-2020 06:32:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[16-Dec-2020 06:32:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[16-Dec-2020 06:32:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Dec-2020 21:14:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Dec-2020 21:14:36 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Dec-2020 21:14:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[29-Dec-2020 04:37:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[29-Dec-2020 04:37:57 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[29-Dec-2020 04:37:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[29-Dec-2020 04:37:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[29-Dec-2020 04:37:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[29-Dec-2020 04:37:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[06-Jan-2021 07:27:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[06-Jan-2021 07:27:55 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[06-Jan-2021 07:27:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[11-Jan-2021 11:52:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[11-Jan-2021 11:52:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[11-Jan-2021 11:52:51 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[11-Jan-2021 21:41:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[11-Jan-2021 21:41:35 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[11-Jan-2021 21:41:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[11-Jan-2021 21:41:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[11-Jan-2021 21:41:36 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[11-Jan-2021 21:41:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Jan-2021 14:37:26 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Jan-2021 14:37:26 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Jan-2021 14:37:26 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Jan-2021 19:01:49 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Jan-2021 19:01:49 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Jan-2021 19:01:49 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[23-Jan-2021 07:02:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Jan-2021 07:02:50 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Jan-2021 07:02:50 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[23-Jan-2021 07:02:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Jan-2021 07:02:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Jan-2021 07:02:51 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[25-Jan-2021 18:52:00 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[25-Jan-2021 18:52:00 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[25-Jan-2021 18:52:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Jan-2021 04:06:22 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Jan-2021 04:06:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Jan-2021 04:06:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Jan-2021 16:05:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Jan-2021 16:05:29 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Jan-2021 16:05:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Jan-2021 16:05:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Jan-2021 16:05:29 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Jan-2021 16:05:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Feb-2021 16:14:18 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Feb-2021 16:14:18 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Feb-2021 16:14:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Feb-2021 16:17:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Feb-2021 16:17:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Feb-2021 16:17:05 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Feb-2021 14:39:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Feb-2021 14:39:12 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Feb-2021 14:39:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Feb-2021 17:13:09 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Feb-2021 17:13:09 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Feb-2021 17:13:09 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[15-Feb-2021 21:06:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[15-Feb-2021 21:06:10 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[15-Feb-2021 21:06:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Feb-2021 14:13:22 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Feb-2021 14:13:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Feb-2021 14:13:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Feb-2021 04:07:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Feb-2021 04:07:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Feb-2021 04:07:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Feb-2021 04:07:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Feb-2021 04:07:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Feb-2021 04:07:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Feb-2021 19:30:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Feb-2021 19:30:59 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Feb-2021 19:30:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[21-Feb-2021 05:11:14 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/importgrijle/public_html/registroClientes/conexionregistro.php on line 11
+[21-Feb-2021 05:11:14 America/Chicago] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home1/importgrijle/public_html/registroClientes/conexionregistro.php on line 13
+[22-Feb-2021 12:47:14 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[22-Feb-2021 12:47:14 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[22-Feb-2021 12:47:14 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[22-Feb-2021 15:59:11 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[22-Feb-2021 15:59:11 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[22-Feb-2021 15:59:11 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Mar-2021 15:11:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Mar-2021 15:11:55 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Mar-2021 15:11:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Mar-2021 07:30:22 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Mar-2021 07:30:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Mar-2021 07:30:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-Mar-2021 14:45:21 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Mar-2021 14:45:21 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Mar-2021 14:45:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-Mar-2021 19:23:17 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Mar-2021 19:23:17 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Mar-2021 19:23:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Mar-2021 07:15:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Mar-2021 07:15:57 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Mar-2021 07:15:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Mar-2021 07:15:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Mar-2021 07:15:57 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Mar-2021 07:15:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Mar-2021 17:22:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Mar-2021 17:22:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Mar-2021 17:22:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[17-Mar-2021 14:46:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[17-Mar-2021 14:46:44 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[17-Mar-2021 14:46:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[23-Mar-2021 01:15:23 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Mar-2021 01:15:23 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Mar-2021 01:15:23 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[28-Mar-2021 10:05:25 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[28-Mar-2021 10:05:25 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[28-Mar-2021 10:05:25 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[29-Mar-2021 22:10:07 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[29-Mar-2021 22:10:07 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[29-Mar-2021 22:10:07 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[30-Mar-2021 08:55:47 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[30-Mar-2021 08:55:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[30-Mar-2021 08:55:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Apr-2021 11:36:16 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Apr-2021 11:36:16 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Apr-2021 11:36:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Apr-2021 14:55:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Apr-2021 14:55:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Apr-2021 14:55:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Apr-2021 16:39:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Apr-2021 16:39:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Apr-2021 16:39:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Apr-2021 16:39:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Apr-2021 16:39:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Apr-2021 16:39:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Apr-2021 19:14:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Apr-2021 19:14:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Apr-2021 19:14:31 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[11-Apr-2021 22:17:11 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[11-Apr-2021 22:17:11 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[11-Apr-2021 22:17:11 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Apr-2021 20:42:55 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Apr-2021 04:51:05 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Apr-2021 21:48:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Apr-2021 21:48:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Apr-2021 21:48:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[23-Apr-2021 21:48:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[23-Apr-2021 21:48:59 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[23-Apr-2021 21:48:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-May-2021 08:45:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-May-2021 08:45:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-May-2021 08:45:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-May-2021 08:45:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-May-2021 08:45:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-May-2021 08:45:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[21-May-2021 06:44:20 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[21-May-2021 06:44:20 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[21-May-2021 06:44:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[21-May-2021 06:44:20 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[21-May-2021 06:44:20 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[21-May-2021 06:44:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-May-2021 21:34:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-May-2021 21:34:10 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-May-2021 21:34:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[31-May-2021 18:56:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[31-May-2021 18:56:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[31-May-2021 18:56:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[31-May-2021 18:56:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[31-May-2021 18:56:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[31-May-2021 18:56:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Jun-2021 06:45:47 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Jun-2021 06:45:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Jun-2021 06:45:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Jun-2021 06:45:47 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Jun-2021 06:45:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Jun-2021 06:45:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Jun-2021 01:47:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Jun-2021 01:47:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Jun-2021 01:47:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Jun-2021 01:47:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Jun-2021 01:47:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Jun-2021 01:47:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on null in /home1/importgrijle/public_html/registrosolo.php on line 37
+[22-Jun-2021 15:18:34 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[22-Jun-2021 15:18:34 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[22-Jun-2021 15:18:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[22-Jun-2021 15:18:36 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[22-Jun-2021 15:18:36 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[22-Jun-2021 15:18:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Jul-2021 06:02:19 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Jul-2021 06:02:19 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Jul-2021 06:02:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Jul-2021 06:02:51 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Jul-2021 06:02:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Jul-2021 06:02:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[02-Jul-2021 02:24:07 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[02-Jul-2021 02:24:07 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[02-Jul-2021 02:24:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-Jul-2021 13:08:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Jul-2021 13:08:39 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Jul-2021 13:08:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-Jul-2021 13:09:11 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Jul-2021 13:09:11 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Jul-2021 13:09:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Jul-2021 15:48:43 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Jul-2021 15:48:43 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Jul-2021 15:48:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Jul-2021 15:48:44 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Jul-2021 15:48:44 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Jul-2021 15:48:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Jul-2021 11:56:07 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Jul-2021 11:56:07 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Jul-2021 11:56:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[21-Jul-2021 11:54:31 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[21-Jul-2021 11:54:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[21-Jul-2021 11:54:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[21-Jul-2021 11:54:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[21-Jul-2021 11:54:33 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[21-Jul-2021 11:54:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Jul-2021 00:16:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Jul-2021 00:16:23 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Jul-2021 00:16:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Jul-2021 00:16:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Jul-2021 00:16:23 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Jul-2021 00:16:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[28-Jul-2021 04:53:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[28-Jul-2021 04:53:12 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[28-Jul-2021 04:53:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[28-Jul-2021 04:53:18 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[28-Jul-2021 04:53:18 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[28-Jul-2021 04:53:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Aug-2021 22:13:43 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Aug-2021 22:13:43 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Aug-2021 22:13:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Aug-2021 22:13:46 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Aug-2021 22:13:46 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Aug-2021 22:13:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[06-Aug-2021 18:31:20 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[06-Aug-2021 18:31:20 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[06-Aug-2021 18:31:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-Aug-2021 04:06:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-Aug-2021 04:06:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-Aug-2021 04:06:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[17-Aug-2021 14:42:01 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[17-Aug-2021 14:42:01 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[17-Aug-2021 14:42:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[17-Aug-2021 14:42:04 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[17-Aug-2021 14:42:04 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[17-Aug-2021 14:42:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Aug-2021 04:37:14 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Aug-2021 04:37:14 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Aug-2021 04:37:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[24-Aug-2021 12:26:00 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[24-Aug-2021 12:26:00 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[24-Aug-2021 12:26:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[24-Aug-2021 12:26:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[24-Aug-2021 12:26:02 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[24-Aug-2021 12:26:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[06-Sep-2021 20:24:31 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[06-Sep-2021 20:24:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[06-Sep-2021 20:24:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[06-Sep-2021 20:24:34 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[06-Sep-2021 20:24:34 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[06-Sep-2021 20:24:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Sep-2021 02:52:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Sep-2021 02:52:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Sep-2021 02:52:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Sep-2021 05:03:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Sep-2021 05:03:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Sep-2021 05:03:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Sep-2021 05:03:24 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Sep-2021 05:03:24 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Sep-2021 05:03:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[12-Sep-2021 22:34:07 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[12-Sep-2021 22:34:07 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[12-Sep-2021 22:34:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[13-Sep-2021 15:38:51 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[13-Sep-2021 15:38:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[13-Sep-2021 15:38:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Sep-2021 01:50:38 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Sep-2021 01:50:38 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Sep-2021 01:50:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Sep-2021 01:50:42 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Sep-2021 01:50:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Sep-2021 01:50:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[29-Sep-2021 09:19:51 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[29-Sep-2021 09:19:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[29-Sep-2021 09:19:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[29-Sep-2021 09:19:52 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[29-Sep-2021 09:19:52 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[29-Sep-2021 09:19:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Oct-2021 05:16:45 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Oct-2021 05:16:45 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Oct-2021 05:16:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Oct-2021 05:16:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Oct-2021 05:16:48 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Oct-2021 05:16:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[17-Oct-2021 13:28:16 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[17-Oct-2021 13:28:16 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[17-Oct-2021 13:28:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[22-Oct-2021 02:01:27 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[22-Oct-2021 02:01:27 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[22-Oct-2021 02:01:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[22-Oct-2021 02:01:30 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[22-Oct-2021 02:01:30 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[22-Oct-2021 02:01:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[31-Oct-2021 08:34:19 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[31-Oct-2021 08:34:19 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[31-Oct-2021 08:34:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[31-Oct-2021 08:34:20 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[31-Oct-2021 08:34:20 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[31-Oct-2021 08:34:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Nov-2021 08:18:15 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Nov-2021 08:18:15 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Nov-2021 08:18:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Nov-2021 08:18:17 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Nov-2021 08:18:17 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Nov-2021 08:18:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[27-Nov-2021 10:41:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[27-Nov-2021 10:41:03 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[27-Nov-2021 10:41:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[27-Nov-2021 10:41:06 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[27-Nov-2021 10:41:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[27-Nov-2021 10:41:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Dec-2021 03:51:37 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Dec-2021 03:51:37 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Dec-2021 03:51:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Dec-2021 03:51:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Dec-2021 03:51:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Dec-2021 03:51:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Dec-2021 06:34:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Dec-2021 06:34:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Dec-2021 06:34:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Dec-2021 06:34:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Dec-2021 06:34:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Dec-2021 06:34:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Dec-2021 07:53:50 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Dec-2021 07:53:50 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Dec-2021 07:53:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Dec-2021 07:53:53 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Dec-2021 07:53:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Dec-2021 07:53:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Dec-2021 02:33:57 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Dec-2021 02:33:57 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Dec-2021 02:33:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Dec-2021 02:34:00 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Dec-2021 02:34:00 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Dec-2021 02:34:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[29-Dec-2021 13:42:06 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[29-Dec-2021 13:42:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[29-Dec-2021 13:42:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[29-Dec-2021 13:42:09 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[29-Dec-2021 13:42:09 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[29-Dec-2021 13:42:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Jan-2022 04:28:05 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Jan-2022 04:28:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Jan-2022 04:28:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[07-Jan-2022 04:28:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[07-Jan-2022 04:28:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[07-Jan-2022 04:28:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Jan-2022 04:41:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Jan-2022 04:41:12 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Jan-2022 04:41:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Jan-2022 04:41:14 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Jan-2022 04:41:14 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Jan-2022 04:41:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Jan-2022 08:30:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Jan-2022 08:30:33 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Jan-2022 08:30:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Jan-2022 08:30:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Jan-2022 08:30:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Jan-2022 08:30:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Jan-2022 15:02:41 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Jan-2022 15:02:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Jan-2022 15:02:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Jan-2022 15:02:43 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Jan-2022 15:02:43 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Jan-2022 15:02:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Feb-2022 14:03:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Feb-2022 14:03:03 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Feb-2022 14:03:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[03-Feb-2022 14:03:06 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[03-Feb-2022 14:03:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[03-Feb-2022 14:03:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Feb-2022 03:26:21 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Feb-2022 03:26:21 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Feb-2022 03:26:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[13-Feb-2022 17:47:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[13-Feb-2022 17:47:03 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[13-Feb-2022 17:47:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[13-Feb-2022 17:47:07 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[13-Feb-2022 17:47:07 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[13-Feb-2022 17:47:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Feb-2022 21:08:53 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Feb-2022 21:08:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Feb-2022 21:08:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Feb-2022 21:08:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Feb-2022 21:08:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Feb-2022 21:08:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[05-Mar-2022 11:35:13 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[05-Mar-2022 11:35:13 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[05-Mar-2022 11:35:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[05-Mar-2022 11:35:16 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[05-Mar-2022 11:35:16 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[05-Mar-2022 11:35:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Mar-2022 08:42:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Mar-2022 08:42:33 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Mar-2022 08:42:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[10-Mar-2022 08:42:35 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[10-Mar-2022 08:42:35 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[10-Mar-2022 08:42:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[12-Mar-2022 15:55:46 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[12-Mar-2022 15:55:46 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[12-Mar-2022 15:55:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[12-Mar-2022 15:55:49 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[12-Mar-2022 15:55:49 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[12-Mar-2022 15:55:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Mar-2022 02:16:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Mar-2022 02:16:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Mar-2022 02:16:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Mar-2022 02:16:41 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Mar-2022 02:16:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Mar-2022 02:16:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[30-Mar-2022 13:08:53 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[30-Mar-2022 13:08:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[30-Mar-2022 13:08:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[30-Mar-2022 13:08:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[30-Mar-2022 13:08:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[30-Mar-2022 13:08:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Apr-2022 00:35:31 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Apr-2022 00:35:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Apr-2022 00:35:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Apr-2022 00:35:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Apr-2022 00:35:33 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Apr-2022 00:35:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[04-Apr-2022 09:23:41 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[04-Apr-2022 09:23:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[04-Apr-2022 09:23:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Apr-2022 12:30:50 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Apr-2022 12:30:50 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Apr-2022 12:30:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[08-Apr-2022 12:30:54 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[08-Apr-2022 12:30:54 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[08-Apr-2022 12:30:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Apr-2022 07:03:49 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Apr-2022 07:03:49 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Apr-2022 07:03:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Apr-2022 07:03:53 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Apr-2022 07:03:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Apr-2022 07:03:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[14-Apr-2022 12:47:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/importgrijle/public_html/registroClientes/conexionregistro.php on line 11
+[14-Apr-2022 12:47:22 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home1/importgrijle/public_html/registroClientes/conexionregistro.php:13
+Stack trace:
+#0 /home1/importgrijle/public_html/registro.php(34): include()
+#1 {main}
+  thrown in /home1/importgrijle/public_html/registroClientes/conexionregistro.php on line 13
+[14-Apr-2022 12:47:27 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[14-Apr-2022 12:47:27 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[14-Apr-2022 12:47:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Apr-2022 14:12:10 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Apr-2022 14:12:10 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Apr-2022 14:12:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[18-Apr-2022 14:12:11 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[18-Apr-2022 14:12:11 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[18-Apr-2022 14:12:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Apr-2022 14:56:41 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Apr-2022 14:56:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Apr-2022 14:56:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Apr-2022 10:23:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Apr-2022 10:23:02 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Apr-2022 10:23:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[20-Apr-2022 10:23:04 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[20-Apr-2022 10:23:04 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[20-Apr-2022 10:23:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Apr-2022 12:34:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Apr-2022 12:34:39 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Apr-2022 12:34:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[26-Apr-2022 12:34:42 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[26-Apr-2022 12:34:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[26-Apr-2022 12:34:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-May-2022 01:31:34 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-May-2022 01:31:34 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-May-2022 01:31:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[09-May-2022 01:31:37 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[09-May-2022 01:31:37 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[09-May-2022 01:31:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[17-Jun-2022 11:27:06 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[17-Jun-2022 11:27:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[17-Jun-2022 11:27:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[17-Jun-2022 11:27:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[17-Jun-2022 11:27:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[17-Jun-2022 11:27:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Jun-2022 11:41:47 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Jun-2022 11:41:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Jun-2022 11:41:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[19-Jun-2022 11:41:51 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[19-Jun-2022 11:41:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[19-Jun-2022 11:41:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Jul-2022 02:17:30 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Jul-2022 02:17:30 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Jul-2022 02:17:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[01-Jul-2022 02:17:31 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[01-Jul-2022 02:17:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[01-Jul-2022 02:17:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[05-Jul-2022 13:15:53 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[05-Jul-2022 13:15:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[05-Jul-2022 13:15:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37
+[05-Jul-2022 13:15:54 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'importgr_us'@'localhost' (using password: YES) in /home1/importgrijle/public_html/conexionregistro.php on line 11
+[05-Jul-2022 13:15:54 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/importgrijle/public_html/registrosolo.php on line 36
+[05-Jul-2022 13:15:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/importgrijle/public_html/registrosolo.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/importgrijle/public_html/registrosolo.php on line 37

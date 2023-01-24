@@ -1,0 +1,80 @@
+
+
+/* End */
+
+/* Start:/bitrix/templates/editorial/components/bitrix/catalog.section.list/area_tematica/style.css*/
+#tematica { margin:0px; padding:0px; height:auto !important}
+#tematica  a.link_at
+{
+	
+	/* font-family:  Helvetica, Arial, sans-serif;*/
+color:#1f1f1f;
+text-decoration:none; font-weight:700; font-size:96%; letter-spacing: -0.4px;}
+#tematica  a.link_at:hover
+{ 
+text-decoration: underline;}
+
+#tematica  ul {
+	margin:0px; 
+	padding-left:7px;
+}
+#tematica  li {
+	background-image: url(icono_tematica.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/editorial/components/bitrix/catalog.section.list/area_tematica/images/icono_tematica.png*/;
+	background-repeat: no-repeat;
+	background-position: left 5px;
+	margin:0px 0px 7px 0px;
+	padding:0px 0px 0px 10px;
+	
+}
+#tematica  h3{ font-size:16px;} 
+.ui-accordion .ui-accordion-content{ overflow: hidden!important;  }
+/* End */
+
+/* Start:/bitrix/templates/editorial/components/bitrix/catalog.section/colecciones_home_new/style.css*/
+#colecciones_hom  a.link_at
+{ /*font-family:  Helvetica, Arial, sans-serif;*/
+color:#1f1f1f;
+text-decoration:none; font-weight:700; font-size:96%; letter-spacing: -0.4px;}
+#colecciones_hom  a.link_at:hover
+{ 
+text-decoration: underline;}
+
+#colecciones_hom  ul{
+	margin:0px; 
+	padding-left:7px;
+}
+#colecciones_hom  li {
+	background-image: url(icono_tematica.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/editorial/components/bitrix/catalog.section.list/area_tematica/images/icono_tematica.png*/;/*este eleento ees de otra librería, debería ser copiado a images de este compoente*/
+	background-repeat: no-repeat;
+	background-position: left 5px;
+	margin:0px 0px 7px 0px;
+	padding:0px 0px 0px 10px;
+	
+}
+#colecciones_hom h3{ font-size:14px;}
+/********/
+#publicaciones_hom  a.link_at
+{/*font-family:  Helvetica, Arial, sans-serif;*/
+color:#1f1f1f;
+text-decoration:none;font-weight:700; font-size:95.5%; letter-spacing: -0.5px;}
+#publicaciones_hom  a.link_at:hover
+{ 
+text-decoration: underline;
+}
+
+#publicaciones_hom  ul{
+	margin:0px; 
+	padding-left:7px;
+}
+#publicaciones_hom  li {
+	background-image: url(icono_tematica.png)/*tpa=http://www.palestraeditores.com/bitrix/templates/editorial/components/bitrix/catalog.section.list/area_tematica/images/icono_tematica.png*/;/*este eleento ees de otra librería, debería ser copiado a images de este compoente*/
+	background-repeat: no-repeat;
+	background-position: left 5px;
+	margin:0px 0px 7px 0px;
+	padding:0px 0px 0px 10px;
+	
+}
+#publicaciones_hom h3{ font-size:14px;}
+/* End */
+
+/
